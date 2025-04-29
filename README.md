@@ -18,7 +18,7 @@ This is a simple keylogger project built with Python using the `pynput` library 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/keylogger.git
+    git clone https://github.com/SAMEEHA17/PYTHON_KEYLOGGER.git
     ```
 
 2. Install dependencies:
